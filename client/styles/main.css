@@ -1,0 +1,12 @@
+.main-container {
+    margin-top: 565px;
+    margin-bottom: 70px;
+    padding-bottom: 30px;
+    background-color: #e5e5e5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #333333;
+}
+
+.page-header {
+    border-bottom: 1px solid #333333;
+}

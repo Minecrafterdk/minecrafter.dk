@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Minecraftia';
+	src: url('/fonts/Minecraftia/Minecraftia.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/Minecraftia/Minecraftia.woff') format('woff'), 
+         url('/fonts/Minecraftia/Minecraftia.ttf') format('truetype'), 
+         url('/fonts/Minecraftia/Minecraftia.svg#svgFontName') format('svg');
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: Minecraftia;
+    font-weight: bold;
+}
+
+body {
+    font-family: Minecraftia;
+    font-size: 13px;
+}
