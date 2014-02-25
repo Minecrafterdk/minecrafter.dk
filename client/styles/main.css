@@ -9,4 +9,10 @@
 
 .page-header {
     border-bottom: 1px solid #333333;
+
+.fa-giant {
+    font-size: 100px;
+    text-shadow: 4px 4px 2px #999;
+    width: 115px;
+    text-align: center;
 }
