@@ -2,7 +2,7 @@
 
 Meteor.startup(function () {
     'use strict';
-    
+
     $('#menu')
         .affix({
             offset: {
@@ -22,8 +22,12 @@ Meteor.startup(function () {
                 right: 0
             });
         });
-    
+
     $('body').scrollspy({
         target: '#menu'
     });
+});
+
+Accounts.ui.config({
+  passwordSignupFields: 'USERNAME_AND_EMAIL'
 });

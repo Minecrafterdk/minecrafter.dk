@@ -28,7 +28,19 @@
     color: #3b5998;
 }
 
-.affix, 
+.nav .dropdown-menu {
+  top: 42px;
+  left: auto;
+  right: 0;
+  width: 350px !important;
+  background-color: #e5e5e5;
+  border-top: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-color: #333;
+}
+
+.affix,
 .affix-top {
     z-index: 20;
     top: 0;
@@ -54,4 +66,9 @@
     text-shadow: 4px 4px 2px #999;
     width: 115px;
     text-align: center;
+}
+
+.btn-primary {
+  background-color: #428bca;
+  border-color: #357ebd;
 }
