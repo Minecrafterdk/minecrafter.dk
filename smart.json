@@ -2,6 +2,8 @@
   "packages": {
     "bootstrap-3": {},
     "font-awesome": {},
-    "accounts-ui-bootstrap-3": {}
+    "accounts-ui-bootstrap-3": {
+        "git": "https://github.com/Minecrafterdk/meteor-accounts-ui-bootstrap-3.git"
+    }
   }
 }
