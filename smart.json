@@ -3,7 +3,8 @@
     "bootstrap-3": {},
     "font-awesome": {},
     "accounts-ui-bootstrap-3": {
-        "git": "https://github.com/Minecrafterdk/meteor-accounts-ui-bootstrap-3.git"
-    }
+      "git": "https://github.com/Minecrafterdk/meteor-accounts-ui-bootstrap-3.git"
+    },
+    "just-i18n": {}
   }
 }
